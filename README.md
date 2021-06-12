@@ -1,9 +1,9 @@
 # Taller 9 (Laboratorio): 
 ### comandos a ejecutar
-`cd taller/prroyectociudad`
-`python manage.py migrate`
-`python manage.py createsuperuser`
-`python manage.py runserver 8081`
+-`cd taller/prroyectociudad`
+-`python manage.py migrate`
+-`python manage.py createsuperuser`
+-`python manage.py runserver 8081`
 
 ## Creación de proyectos de ambiente web a través del framework Django; creando modelas sencillos. Usar interfaz administrativa.
 
