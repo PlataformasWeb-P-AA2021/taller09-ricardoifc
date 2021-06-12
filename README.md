@@ -1,7 +1,6 @@
 # Taller 9 (Laboratorio): 
 ### comandos a ejecutar
 - 'cd taller/prroyectociudad'
-- 'python manage.py makemigrations ordenamiento'
 - 'python manage.py migrate'
 - 'python manage.py createsuperuser'
 - 'python manage.py runserver 8081'
